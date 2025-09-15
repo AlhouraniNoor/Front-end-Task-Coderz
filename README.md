@@ -29,6 +29,7 @@ Used for responsive styling.
 ### Installation
 #### Clone the repository:
 git clone https://github.com/AlhouraniNoor/Front-end-Task-Coderz.git
+
 cd Front-end-Task-Coderz
 
 #### Restore NuGet packages:
