@@ -1,0 +1,33 @@
+C:\Users\NTC\source\repos\NoorAlhourani front-end Task\NoorAlhourani front-end Task\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\NTC\source\repos\NoorAlhourani front-end Task\NoorAlhourani front-end Task\bin\Debug\net8.0\appsettings.json
+C:\Users\NTC\source\repos\NoorAlhourani front-end Task\NoorAlhourani front-end Task\bin\Debug\net8.0\NoorAlhourani front-end Task.staticwebassets.runtime.json
+C:\Users\NTC\source\repos\NoorAlhourani front-end Task\NoorAlhourani front-end Task\bin\Debug\net8.0\NoorAlhourani front-end Task.staticwebassets.endpoints.json
+C:\Users\NTC\source\repos\NoorAlhourani front-end Task\NoorAlhourani front-end Task\bin\Debug\net8.0\NoorAlhourani front-end Task.exe
+C:\Users\NTC\source\repos\NoorAlhourani front-end Task\NoorAlhourani front-end Task\bin\Debug\net8.0\NoorAlhourani front-end Task.deps.json
+C:\Users\NTC\source\repos\NoorAlhourani front-end Task\NoorAlhourani front-end Task\bin\Debug\net8.0\NoorAlhourani front-end Task.runtimeconfig.json
+C:\Users\NTC\source\repos\NoorAlhourani front-end Task\NoorAlhourani front-end Task\bin\Debug\net8.0\NoorAlhourani front-end Task.dll
+C:\Users\NTC\source\repos\NoorAlhourani front-end Task\NoorAlhourani front-end Task\bin\Debug\net8.0\NoorAlhourani front-end Task.pdb
+C:\Users\NTC\source\repos\NoorAlhourani front-end Task\NoorAlhourani front-end Task\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\NTC\source\repos\NoorAlhourani front-end Task\NoorAlhourani front-end Task\obj\Debug\net8.0\NoorAlhourani front-end Task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NTC\source\repos\NoorAlhourani front-end Task\NoorAlhourani front-end Task\obj\Debug\net8.0\NoorAlhourani front-end Task.AssemblyInfoInputs.cache
+C:\Users\NTC\source\repos\NoorAlhourani front-end Task\NoorAlhourani front-end Task\obj\Debug\net8.0\NoorAlhourani front-end Task.AssemblyInfo.cs
+C:\Users\NTC\source\repos\NoorAlhourani front-end Task\NoorAlhourani front-end Task\obj\Debug\net8.0\NoorAlhourani front-end Task.csproj.CoreCompileInputs.cache
+C:\Users\NTC\source\repos\NoorAlhourani front-end Task\NoorAlhourani front-end Task\obj\Debug\net8.0\NoorAlhourani front-end Task.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\NTC\source\repos\NoorAlhourani front-end Task\NoorAlhourani front-end Task\obj\Debug\net8.0\NoorAlhourani front-end Task.RazorAssemblyInfo.cache
+C:\Users\NTC\source\repos\NoorAlhourani front-end Task\NoorAlhourani front-end Task\obj\Debug\net8.0\NoorAlhourani front-end Task.RazorAssemblyInfo.cs
+C:\Users\NTC\source\repos\NoorAlhourani front-end Task\NoorAlhourani front-end Task\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\NTC\source\repos\NoorAlhourani front-end Task\NoorAlhourani front-end Task\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\NTC\source\repos\NoorAlhourani front-end Task\NoorAlhourani front-end Task\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\NTC\source\repos\NoorAlhourani front-end Task\NoorAlhourani front-end Task\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\NTC\source\repos\NoorAlhourani front-end Task\NoorAlhourani front-end Task\obj\Debug\net8.0\scopedcss\bundle\NoorAlhourani front-end Task.styles.css
+C:\Users\NTC\source\repos\NoorAlhourani front-end Task\NoorAlhourani front-end Task\obj\Debug\net8.0\scopedcss\projectbundle\NoorAlhourani front-end Task.bundle.scp.css
+C:\Users\NTC\source\repos\NoorAlhourani front-end Task\NoorAlhourani front-end Task\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\NTC\source\repos\NoorAlhourani front-end Task\NoorAlhourani front-end Task\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\NTC\source\repos\NoorAlhourani front-end Task\NoorAlhourani front-end Task\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\NTC\source\repos\NoorAlhourani front-end Task\NoorAlhourani front-end Task\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\NTC\source\repos\NoorAlhourani front-end Task\NoorAlhourani front-end Task\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\NTC\source\repos\NoorAlhourani front-end Task\NoorAlhourani front-end Task\obj\Debug\net8.0\NoorAlhourani front-end Task.dll
+C:\Users\NTC\source\repos\NoorAlhourani front-end Task\NoorAlhourani front-end Task\obj\Debug\net8.0\refint\NoorAlhourani front-end Task.dll
+C:\Users\NTC\source\repos\NoorAlhourani front-end Task\NoorAlhourani front-end Task\obj\Debug\net8.0\NoorAlhourani front-end Task.pdb
+C:\Users\NTC\source\repos\NoorAlhourani front-end Task\NoorAlhourani front-end Task\obj\Debug\net8.0\NoorAlhourani front-end Task.genruntimeconfig.cache
+C:\Users\NTC\source\repos\NoorAlhourani front-end Task\NoorAlhourani front-end Task\obj\Debug\net8.0\ref\NoorAlhourani front-end Task.dll

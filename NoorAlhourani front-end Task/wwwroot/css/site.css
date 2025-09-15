@@ -1,0 +1,85 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+.btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {
+  box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+    margin-bottom: 30px;
+    background-image: url('../images/b-ground.png');
+}
+.head {
+    text-align: center;
+    color: midnightblue;
+    font-size: 23px;
+    padding: 11px;
+    font-family: 'Comic Sans MS';
+    font-weight: bold;
+    border: double;
+    border-color: goldenrod;
+    border-radius: 9px;
+    width: 550px;
+    margin: auto;
+    display: block;
+    box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
+}
+.subhead {
+    text-align: center;
+    color:navy;
+    font-size: 19px;
+    padding: 23px;
+    font-family:'Comic Sans MS';
+}
+form {
+    background-color: ivory;
+    border-radius: 9px;
+    padding: 17px;
+    max-width: 425px;
+    max-height: fit-content;
+    margin: 23px auto;
+    box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
+    text-align: initial;
+    border: double;
+    border-color: goldenrod;
+    display: block;
+}
+.datatype {
+    color: midnightblue;
+    font-weight: bold;
+    font-family: 'Comic Sans MS';
+}
+.Reg-form1 {
+    background-color: whitesmoke;
+    width: stretch;
+    text-align: center;
+    border-radius: 9px;
+    font-family: 'Comic Sans MS';
+}
+#savebtn {
+    font-size: 21px;
+    color: midnightblue;
+    font-weight: bold;
+    font-family: 'Comic Sans MS';
+    border-radius: 9px;
+    background-color: whitesmoke;
+    border: double;
+    border-color: goldenrod;
+    text-align: center;
+    width: 300px;
+    margin: auto;
+    display: block;
+    box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
+}

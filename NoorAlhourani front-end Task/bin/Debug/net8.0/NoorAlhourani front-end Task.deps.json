@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "NoorAlhourani front-end Task/1.0.0": {
+        "runtime": {
+          "NoorAlhourani front-end Task.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "NoorAlhourani front-end Task/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
