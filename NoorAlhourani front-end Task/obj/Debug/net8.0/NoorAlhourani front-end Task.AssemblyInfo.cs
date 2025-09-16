@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("NoorAlhourani front-end Task")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8a40bced1529ea2bf45206979c91fc5d0c87fa38")]
 [assembly: System.Reflection.AssemblyProductAttribute("NoorAlhourani front-end Task")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NoorAlhourani front-end Task")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
